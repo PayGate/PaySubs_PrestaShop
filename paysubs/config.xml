@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+/*
+ * Copyright (c) 2019 PayGate (Pty) Ltd
+ *
+ * Author: App Inlet (Pty) Ltd
+ * 
+ * Released under the GNU General Public License
+ */
+-->
+<module>
+    <name>paysubs</name>
+    <displayName><![CDATA[PayGate]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Accept credit/debit card payments via PayGate South Africa]]></description>
+    <author><![CDATA[PAYSUBS]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to delete these details?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
