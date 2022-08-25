@@ -1,7 +1,7 @@
 # PaySubs_PrestaShop
 ## DPO PayGate PaySubs1 (VCS) PrestaShop plugin v1.0.0 for PrestaShop v1.7.4.1
 
-This is the DPO PayGate PaySubs (VCS) plugin for PrestaShop. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
+This is the DPO PayGate PaySubs (VCS) plugin for PrestaShop. Please feel free to contact the DPO PayGate support team at supportsa@dpogroup.com should you require any assistance.
 
 ## Installation
 Please navigate to the [releases page](https://github.com/PayGate/PaySubs_PrestaShop/releases), download the latest release (v1.0.0) and unzip. You will them be able to follow the integration guide which is included in the zip.
